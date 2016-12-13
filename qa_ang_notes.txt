@@ -1,0 +1,44 @@
+sprint -- usually 2 weeks, there is deadline. should not be more than 3 weeks.
+kanban---there is no deadline, there is task once done move to other
+eliminate too much work
+
+
+jira-- something dashbaord
+cotinous deployment and delivery??
+
+automatic check the continuous delivery
+
+
+qa--
+gatekeeper,
+blackbox testing- dont see the code of the system
+white boxing testing-- see the line of the code
+
+unit testing, functional testing are white boxing
+developer write unit testing
+functional testing done by qa
+acceptance testing
+
+Types of testing
+unit testing:
+integrate testing: developer, qa team
+
+
+
+API-nn
+functional testing: testing the functionality of the testing
+user acceptance testing: user experience, did meet the user requrirement?
+smoke testing: done during deployment, see system behave 
+regression testing:  done at night
+
+manual vs automation
+ manual - put manually
+automation - used script
+jira -tack bug, agile, spirint, kanban board
+backlog-- meaning
+ruby on rail
+--- code acacdemy
+
+
+a723- software
+a725 --ba
